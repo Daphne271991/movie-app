@@ -22,11 +22,13 @@ export const Settings = {
         infinite: true,
         dots: false,
       },
+    },
+    {
       breakpoint: 600,
       settings: {
         slidesToShow: 2,
         slidesToScroll: 2,
-        initialSlide: 2, // Removed the extra comma here
+        initialSlide: 2,
       },
     },
     {
