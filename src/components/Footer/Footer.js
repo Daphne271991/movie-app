@@ -6,7 +6,11 @@ const Footer = () => {
     <div className="footer">
       <div>
         Movie App coded by{" "}
-        <a href="https://www.daphnebonilla.com" target="_blank">
+        <a
+          href="https://www.daphnebonilla.com"
+          target="_blank"
+          rel="noreferrer"
+        >
           Daphne Bonilla 👩🏽‍💻
         </a>
       </div>
